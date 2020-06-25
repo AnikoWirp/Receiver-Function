@@ -8,4 +8,3 @@ dependencies:
   - matplotlib
   - instaseis
   - rf
-  - pip install rf
