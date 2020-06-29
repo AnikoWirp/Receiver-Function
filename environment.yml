@@ -2,11 +2,8 @@ name: obspy-binder-example
 channels:
   - conda-forge
 dependencies:
-  - python
-  - numpy
+  - obspy
+  - cartopy
   - pip
   - pip:
-    - nbgitpuller
-    - sphinx-gallery
-    - pandas
-    - matplotlib
+    - rf
